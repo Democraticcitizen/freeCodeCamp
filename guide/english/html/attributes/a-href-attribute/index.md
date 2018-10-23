@@ -28,6 +28,7 @@ The `<a href>` attribute is supported by all browsers.
  `hreflang` : Specifies the language of the linked resource.
  `target`   : Specifies the context in which the linked resource will open.
  `title`    : Defines the title of a link, which appears to the user as a tooltip.
+ 'download' : Specifies that the target will be downloaded when a user clicks on the hyperlink
 
 ### Examples
 ```html
